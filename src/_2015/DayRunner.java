@@ -12,7 +12,7 @@ public class DayRunner {
 
         System.out.println("\nDay 3: ");
         // TODO: 8/11/2025 Try again at a later time
-        //_2015.Day3 day3 = new _2015.Day3();
+        //Day3 day3 = new Day3();
 
         System.out.println("\nDay 4: ");
         Day4 day4 = new Day4();
@@ -20,5 +20,7 @@ public class DayRunner {
         System.out.println("\nDay 5: ");
         Day5 day5 = new Day5();
 
+        System.out.println("\nDay 6: ");
+        Day6 day6 = new Day6();
     }
 }
