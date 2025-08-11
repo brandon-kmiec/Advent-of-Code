@@ -20,5 +20,7 @@ public class DayRunner {
         System.out.println("\nDay 5: ");
         Day5 day5 = new Day5();
 
+        System.out.println("\nDay 6: ");
+        Day6 day6 = new Day6();
     }
 }
