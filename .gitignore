@@ -1,3 +1,6 @@
 # Ignore Advent of Code Inputs and Instructions
 /Inputs
 /Instructions
+
+# Ignore .IDEA Files
+/.idea
